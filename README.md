@@ -1,5 +1,5 @@
 <div align=center>
-    <img width=20px height=20px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img width=80px height=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <br>
     <a href="https://github.com/bendik-kodehode/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendik-kodehode&layout=compact&show_icons=true&theme=synthwave" alt="Top Languages">
