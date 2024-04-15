@@ -1,4 +1,6 @@
 <div align=center>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <br>
     <a href="https://github.com/bendik-kodehode/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendik-kodehode&layout=compact&show_icons=true&theme=synthwave" alt="Top Languages">
     </a>
