@@ -7,7 +7,6 @@
     <img width=45px height=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img width=45px height=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
     <img width=45px height=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-
     <br>
     <a href="https://github.com/bendik-kodehode/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendik-kodehode&layout=compact&show_icons=true&theme=synthwave" alt="Top Languages">
